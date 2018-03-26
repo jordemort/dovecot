@@ -1,0 +1,5 @@
+dovecot (2:2.3.1-1) stable; urgency=low
+
+  * Dovecot CE 2.3.1 release
+
+ -- Dovecot Builder <support@dovecot.fi>  Mon, 26 Mar 2018 11:03:11 +0000
